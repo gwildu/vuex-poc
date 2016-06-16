@@ -1,6 +1,6 @@
-# vue-browserify-full
+# vuex-poc
 
-> A Vue.js project
+> A basic example on how to work with vuex
 
 ## Build Setup
 
